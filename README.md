@@ -59,7 +59,7 @@ pytest -v
 
 ## What to submit
 1. **CI tool**: GitHub Actions
-2. **URL to web app**: `https://<your-webapp-name>.azurewebsites.net/`
+2. **URL to web app**: `https://portal.azure.com/#home/`
 3. **Tutorial(s) followed**: https://github.com/skills/deploy-to-azure
    (plus https://github.com/skills/hello-github-actions and
    https://github.com/skills/test-with-actions if you did those first)
