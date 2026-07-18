@@ -55,7 +55,7 @@ pytest -v
    workflow will:
    - Install dependencies and run `pytest`
    - If tests pass, deploy the app to Azure Web App
-7. Visit `https://<your-webapp-name>.azurewebsites.net/` to confirm it's live.
+7. Visit `https://portal.azure.com/#home/` to confirm it's live.
 
 ## What to submit
 1. **CI tool**: GitHub Actions
